@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Web Application with AWS Cognito Authentication built on Amplify Framework
 
 ## Available Scripts
 
