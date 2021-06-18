@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-orionwebapp-staging-60308-authRole",
+      "UnauthRoleArn": "arn:aws:iam::455068402658:role/amplify-orionwebapp-staging-60308-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::455068402658:role/amplify-orionwebapp-staging-60308-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-orionwebapp-staging-60308-deployment",
+      "UnauthRoleName": "amplify-orionwebapp-staging-60308-unauthRole",
+      "StackName": "amplify-orionwebapp-staging-60308",
+      "StackId": "arn:aws:cloudformation:us-east-1:455068402658:stack/amplify-orionwebapp-staging-60308/db28a620-cffa-11eb-a855-0eadc6b18409",
+      "AmplifyAppId": "d3iwzjuvutq3bh"
+    }
+  }
+}
